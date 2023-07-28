@@ -18,7 +18,7 @@ function CompanyList() {
 
     return (
         <div className="container">
-            <div className="table-responsive rounded">
+            <div className="table-responsive">
                 <table className="table table-rounded">
                     <thead>
                         <tr>
